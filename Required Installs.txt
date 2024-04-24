@@ -1,0 +1,9 @@
+pip install nltk
+pip install textblob
+pip install matplotlib
+pip install seaborn
+pip install pandas
+pip install numpy
+pip install requests
+pip install NRCLex
+
